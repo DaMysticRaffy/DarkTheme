@@ -225,7 +225,7 @@
 
 /* Ping Menu Middle */
 .theme-dark |messagesPopout| {
-  background-color: var(--dark4) !important;
+  background-color: var(#ccc) !important;
 }
 
 /* Ping Menu Jump Button */
