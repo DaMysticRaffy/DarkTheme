@@ -5,10 +5,10 @@
   --dark0: #080808;
   --dark1: #080808;
   --dark2: #080808;
-  --dark3: #080808;
+  --dark3: #d6d6d6;
   --dark4: #080808;
-  --dark5: #080808;
-  --dark6: #080808;
+  --dark5: #d6d6d6;
+  --dark6: #d6d6d6;
   --dark7: #d6d6d6;
   --dark-blue: #53639e;
   --dark-green: #30825d;
