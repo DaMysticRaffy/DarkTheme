@@ -1,7 +1,7 @@
 /* START: Variables */
 /* Theme Variables */
 :root {
-  --dark-1: #070707;
+  --dark-1: #1f1e1e;
   --dark0: #0d0d0d;
   --dark1: #111;
   --dark2: #131313;
