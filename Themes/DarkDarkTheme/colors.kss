@@ -1,12 +1,10 @@
 /* START: Variables */
 /* Theme Variables */
 :root {
-  --dark-1: #d6d6d6;
-  --dark0: #d6d6d6;
-  --dark1: #d6d6d6;
-  --dark2: #d6d6d6;
- 
- 
+  --dark-1: #080808;
+  --dark0: #080808;
+  --dark1: #080808;
+  --dark2: #080808;
   --dark3: #080808;
   --dark4: #080808;
   --dark5: #080808;
@@ -21,8 +19,8 @@
 
 /* Dark Theme Variables */
 .theme-dark {
-  --header-primary: #080808;
-  --header-secondary: #080808;
+  --header-primary: #d6d6d6;
+  --header-secondary: #d6d6d6;
   --text-normal: #d6d6d6;
   --text-muted: #72767d;
   --text-link: #00b0f4;
