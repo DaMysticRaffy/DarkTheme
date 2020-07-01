@@ -5,7 +5,7 @@
   --dark0: #121212;
   --dark1: #111;
   --dark2: #131313;
-  --dark3: #161616;
+  --dark3: #121212;
   --dark4: #080808;
   --dark5: #1f1f1f;
   --dark6: #222;
@@ -19,8 +19,8 @@
 
 /* Dark Theme Variables */
 .theme-dark {
-  --header-primary: #ccc;
-  --header-secondary: #b9bbbe;
+  --header-primary: #121212;
+  --header-secondary: #121212;
   --text-normal: #aaa;
   --text-muted: #72767d;
   --text-link: #00b0f4;
