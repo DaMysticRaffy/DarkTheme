@@ -559,12 +559,12 @@ var DarkDarkTheme = (() => {
 							//   );
 							// });
 							KSS.downloadStylesheet(
-								"https://raw.githubusercontent.com/KyzaGitHub/Khub/master/Themes/DarkDarkTheme/branding.kss"
+								"https://raw.githubusercontent.com/DaMysticRaffy/DarkTheme/master/Themes/DarkDarkTheme/branding.kss"
 							).then((kss) => {
 								KSS.setModule(
 									"branding",
 									kss,
-									"https://raw.githubusercontent.com/KyzaGitHub/Khub/master/Themes/DarkDarkTheme/branding.kss"
+									"https://raw.githubusercontent.com/DaMysticRaffy/DarkTheme/master/Themes/DarkDarkTheme/branding.kss"
 								);
 							});
 
