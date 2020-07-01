@@ -327,7 +327,7 @@
 
 /* START: Sliders */
 .theme-dark |switch|::after {
-  background-color: #ccc;
+  background-color: #080808;
 }
 
 /* Slider Off */
@@ -457,7 +457,7 @@
 .theme-dark
   |topSectionSpotify|
   |emptyText actionButton||button||lookInverted||colorGreen||spinner sizeSmall||grow| {
-  background-color: #eee;
+  background-color: #080808;
 }
 
 /* Mini Profile Top Shade */
