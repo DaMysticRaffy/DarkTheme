@@ -9,7 +9,7 @@
   --dark4: #080808;
   --dark5: #080808;
   --dark6: #080808;
-  --dark7: #080808;
+  --dark7: #d6d6d6;
   --dark-blue: #53639e;
   --dark-green: #30825d;
   --dark-yellow: #b58900;
@@ -21,7 +21,7 @@
 .theme-dark {
   --header-primary: #080808;
   --header-secondary: #080808;
-  --text-normal: #aaa;
+  --text-normal: #d6d6d6;
   --text-muted: #72767d;
   --text-link: #00b0f4;
   --channels-default: #8e9297;
