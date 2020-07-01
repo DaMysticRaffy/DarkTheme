@@ -2,7 +2,7 @@
 /* Theme Variables */
 :root {
   --dark-1: #121212;
-  --dark0: #0d0d0d;
+  --dark0: #121212;
   --dark1: #111;
   --dark2: #131313;
   --dark3: #161616;
