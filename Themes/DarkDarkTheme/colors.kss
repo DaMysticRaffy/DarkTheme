@@ -19,8 +19,8 @@
 
 /* Dark Theme Variables */
 .theme-dark {
-  --header-primary: #121212;
-  --header-secondary: #121212;
+  --header-primary: #080808;
+  --header-secondary: #080808;
   --text-normal: #aaa;
   --text-muted: #72767d;
   --text-link: #00b0f4;
@@ -92,7 +92,7 @@
 }
 
 .theme-dark ::-webkit-scrollbar-thumb {
-  background-color: #2a2a2a !important;
+  background-color: #080808 !important;
   border-color: transparent !important;
 }
 /* STOP: Scrollbars */
