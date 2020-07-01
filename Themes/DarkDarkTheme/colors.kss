@@ -1,15 +1,17 @@
 /* START: Variables */
 /* Theme Variables */
 :root {
-  --dark-1: #080808;
-  --dark0: #080808;
-  --dark1: #080808;
-  --dark2: #080808;
-  --dark3: #d6d6d6;
+  --dark-1: #d6d6d6;
+  --dark0: #d6d6d6;
+  --dark1: #d6d6d6;
+  --dark2: #d6d6d6;
+ 
+ 
+  --dark3: #080808;
   --dark4: #080808;
-  --dark5: #d6d6d6;
-  --dark6: #d6d6d6;
-  --dark7: #d6d6d6;
+  --dark5: #080808;
+  --dark6: #080808;
+  --dark7: #080808;
   --dark-blue: #53639e;
   --dark-green: #30825d;
   --dark-yellow: #b58900;
